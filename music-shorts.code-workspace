@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "functions",
+			"path": "functions"
+		},
+		{
+			"name": "app",
+			"path": "app"
+		},
+		{
+			"name": "admin",
+			"path": "admin"
+		},
+		{
+			"name": "homepage",
+			"path": "homepage"
+		},
+		{
+			"name": "auth",
+			"path": "auth"
+		},
+		{
+			"name": "document",
+			"path": "document"
+		}
+	],
+	"settings": {}
+}

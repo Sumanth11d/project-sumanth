@@ -1,0 +1,20 @@
+{
+  "projects": {
+    "default": "music-shorts"
+  },
+  "targets": {
+    "music-shorts": {
+      "hosting": {
+        "auth": [
+          "music-shorts-auth"
+        ],
+        "admin": [
+          "music-shorts-admin"
+        ],
+        "homepage": [
+          "music-shorts"
+        ]
+      }
+    }
+  }
+}
